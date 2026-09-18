@@ -1,0 +1,121 @@
+body{
+
+
+    background-color: blue;
+
+
+    text-align: center;
+
+
+}
+
+
+#card{
+
+
+    width: 60%;
+
+
+    background-color: aliceblue;
+
+
+    margin: 0 auto;
+
+
+    border-radius: 15px;
+
+
+    padding: 80px;
+
+
+ 
+
+
+}
+
+
+#titulo{
+
+
+    color: rgb(14, 14, 237);
+
+
+}
+
+
+input {
+
+
+    border-radius: 15px;
+
+
+    front-size:x-large;
+
+
+
+
+
+}
+
+
+#input{
+
+
+    display: flex;
+
+
+    flex-direction: column;
+
+
+    gep: 25px;
+
+
+}
+
+
+#somar{
+
+
+    background-color: aqua;
+
+
+    padding: 15px;
+
+
+}
+
+
+#subtrair{
+
+
+    background-color: blueviolet;
+
+
+    padding: 15px;
+
+
+}
+
+
+#multiplicar{
+
+
+    background-color: crimson;
+
+
+    padding: 15px;
+
+
+}
+
+
+#dividir{
+
+
+    background-color: gold;
+
+
+    padding: 15px;
+
+
+}
